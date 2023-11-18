@@ -1,3 +1,28 @@
-# GeradordeArquivodeTexto
+# Criador de Arquivos - Bash Script
 
-Este script permite a criação de um arquivo de texto com um tamanho específico com base nas informações fornecidas pelo usuário. Ele solicita o nome do arquivo a ser criado, um conjunto de caracteres e o tamanho final desejado em bytes. Em seguida, o script cria o arquivo e preenche-o com o conjunto de caracteres até que o tamanho desejado seja atingido.
+Um simples script Bash que cria um arquivo de texto com um tamanho específico, preenchendo-o com um conjunto de caracteres fornecido pelo usuário.
+
+## Uso
+
+Execute o script no terminal:
+
+```bash
+./CriaArquivo.sh
+```
+
+Siga as instruções para informar o nome do arquivo, conjunto de caracteres e tamanho desejado.
+
+## Descrição
+
+- **Nome do Script:** CriaArquivo.sh
+- **Autor:** Luiz Fernando
+- **Data:** 03/11/2023
+
+O script solicita informações para criar um arquivo de texto personalizado e exibe o progresso até atingir o tamanho desejado.
+
+## Notas
+
+- Pode ser usado para criar arquivos de teste ou simular arquivos de determinado tamanho com um conteúdo específico.
+
+Sinta-se à vontade para usar, modificar e compartilhar este script!
+```
