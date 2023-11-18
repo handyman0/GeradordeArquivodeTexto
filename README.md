@@ -14,15 +14,13 @@ Siga as instruções para informar o nome do arquivo, conjunto de caracteres e t
 
 ## Descrição
 
-- **Nome do Script:** CriaArquivo.sh
-- **Autor:** Luiz Fernando
-- **Data:** 03/11/2023
+Este script permite criar arquivos de texto personalizados de tamanho específico. Ele solicita ao usuário informações sobre o nome do arquivo, um conjunto de caracteres e o tamanho desejado para o arquivo em bytes. Em seguida, cria um arquivo com o nome fornecido, preenchendo-o com o conjunto de caracteres escolhido até que o arquivo atinja o tamanho desejado.
 
-O script solicita informações para criar um arquivo de texto personalizado e exibe o progresso até atingir o tamanho desejado.
+O script exibe o progresso a cada 10% de conclusão do arquivo.
 
 ## Notas
 
-- Pode ser usado para criar arquivos de teste ou simular arquivos de determinado tamanho com um conteúdo específico.
+- Pode ser útil para criar arquivos de teste ou simular arquivos de determinado tamanho com um conteúdo específico.
+
 
 Sinta-se à vontade para usar, modificar e compartilhar este script!
-```
